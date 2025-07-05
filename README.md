@@ -47,7 +47,7 @@ print("456")
 [百度]: (https://www.baidu.com/)
 
 123
-![鸡腿姑娘](jitui.png)
+![鸡腿姑娘](jitui.jpg)
 
 
 
