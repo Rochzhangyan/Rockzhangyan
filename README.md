@@ -47,7 +47,7 @@ print("456")
 [百度]: (https://www.baidu.com/)
 
 123
-![鸡腿姑娘](https://image.baidu.com/search/detail?adpicid=0&b_applid=12072068351168312161&bdtype=0&commodity=&copyright=&cs=3920813061%2C712286748&di=7498023338351001601&fr=click-pic&fromurl=http%253A%252F%252Fweibo.com%252F1324814451%252FOotRNel42&gsm=1e&hd=&height=0&hot=&ic=&ie=utf-8&imgformat=&imgratio=&imgspn=0&is=0%2C0&isImgSet=&latest=&lid=&lm=&objurl=https%253A%252F%252Fww3.sinaimg.cn%252Fmw690%252F4ef71073gy1hruw7m7qu8j20u01e0ad0.jpg&os=2116008786%2C4150498435&pd=image_content&pi=0&pn=0&rn=1&simid=4188109652%2C944316910&tn=baiduimagedetail&width=0&word=%E9%B8%A1%E8%85%BF%E5%A7%91%E5%A8%98&z=)
+![鸡腿姑娘](jitui.png)
 
 
 
